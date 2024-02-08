@@ -22,7 +22,7 @@ Using Visual Studio:
 3. Open "PT-Project.sln" file, using Visual Studio.
 4. Run the code (F5).
 # How To Use
-* After running the project this interface will be shown:
+* ## After running the project this interface will be shown:
 ![Screenshot 2024-02-08 191655](https://github.com/mariofouad/Paint-For-Kids/assets/119708778/763a6c3d-60b5-4be0-bea6-99ebe93dd853)
 
 * You can select and draw any figure from the toolbar:
