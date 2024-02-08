@@ -1,5 +1,5 @@
 # Paint For Kids
-A fancy colorful application is teach kids some drawing skills.
+A fancy colorful application to teach kids some drawing skills.
 # Table of Contents
 * [Overview](#Overview)
 * [Introduction](#Introduction)
